@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <b>A modern, secure code snippet sharing platform built in PHP.</b><br>
-  🔐 Share code privately · 🎨 Syntax Highlighting · 🌗 Light & Dark Theme
+  <b>A modern and secure code snippet sharing platform built in PHP.</b><br>
+  🔐 Share privately · 🎨 Syntax Highlighting · 🌗 Light/Dark Mode · 💡 Clean UI
 </p>
 
 <p align="center">
@@ -17,42 +17,47 @@
 
 ## ✨ Features
 
-- 🔒 **User Authentication** — Ensures only authorized users can create/manage snippets
-- 🎨 **Syntax Highlighting** — Powered by Monaco Editor
-- 🔗 **Sharable Snippets** — Get a unique link to share with anyone
-- 📋 **Copy to Clipboard** — One-click copy functionality
-- 📝 **Raw View Mode** — Share code in plain format
-- ⏰ **Expiration Support** — Temporary or permanent snippets
-- 🌙 **Dark / Light Mode** — Seamless theme switching
-- 📱 **Responsive Design** — Fully mobile-friendly interface
+- 🔒 **Secure Sharing** — Authenticated users can manage their own snippets
+- 🌈 **Syntax Highlighting** — Monaco Editor with support for popular languages
+- 📋 **Copy to Clipboard** — Quick code copying with one click
+- 🔗 **Sharable Links** — Private URLs to easily share with others
+- 📝 **Raw View Support** — Plain text version of your code
+- ⏳ **Optional Expiration** — Time-limited snippets for extra control
+- 🌙 **Dark/Light Theme** — Toggle-friendly design
+- 📱 **Responsive UI** — Seamlessly works on desktop and mobile
 
 ---
 
 ## 🧱 Tech Stack
 
-| Language | Hosting | UI/UX | Code Editor |
-|----------|---------|-------|-------------|
-| PHP      | Personal cPanel | HTML, CSS, JS | Monaco Editor |
+| Language | Hosting         | UI/UX          | Code Editor       |
+|----------|------------------|----------------|-------------------|
+| PHP      | Personal cPanel  | HTML, CSS, JS  | Monaco Editor     |
 
 ---
 
-## 🚀 Getting Started (for personal deployment)
+## 📌 Usage Guide
 
-### Requirements
+1. **Create a Snippet**
+   - Sign in securely
+   - Click "New Privsnip"
+   - Enter your code and language
+   - Save and generate a link
 
-- PHP 7.4+  
-- Apache/Nginx with MySQL  
-- A hosting environment (like cPanel)
+2. **Share It**
+   - Copy the unique private link
+   - Use the raw view for plaintext or markdown sharing
 
-### Installation
+3. **Manage Snippets**
+   - View, edit, or delete your own snippets
+   - Set expiration dates for temporary sharing
 
-```bash
-# Clone the repository
-git clone https://github.com/easydevnow/PrivSnip.git
+---
 
-# Upload to your hosting server (via cPanel or FTP)
+## 👨‍💻 Developer
 
-# Create a MySQL database and import schema (if applicable)
+Built and maintained by [@BhuiyanYasin](https://github.com/BhuiyanYasin)
 
-# Update configuration:
-# e.g., database credentials, base URL, etc.
+---
+
+> _PrivSnip is a private code sharing tool designed for developers who value speed, security, and simplicity._
