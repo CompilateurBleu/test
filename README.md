@@ -1,7 +1,7 @@
 <h1 align="center">PrivSnip ✂️</h1>
 
 <p align="center">
-  <img src="[https://privsnip.easydevnow.com/logo.svg](https://raw.githubusercontent.com/easydevnow/PrivSnip/refs/heads/main/privsnip.png)" alt="PrivSnip Logo" width="100" />
+  <img src="[[https://privsnip.easydevnow.com/logo.svg](https://raw.githubusercontent.com/easydevnow/PrivSnip/refs/heads/main/privsnip.png)](https://raw.githubusercontent.com/easydevnow/PrivSnip/refs/heads/main/privsnip.png)" alt="PrivSnip Logo" width="100" />
 </p>
 
 <p align="center">
